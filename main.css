@@ -1,0 +1,52 @@
+body {
+    background: 
+    linear-gradient(135deg, #5e5e5d 25%, transparent 25%) -50px 0,
+    linear-gradient(225deg, #5e5e5d 25%, transparent 25%) -50px 0,
+    linear-gradient(315deg, #5e5e5d 25%, transparent 25%),
+    linear-gradient(45deg, #5e5e5d 25%, transparent 25%); 
+    background-size: 100px 100px;
+    background-color: #767071;
+    }
+
+form {
+    max-width: 50%;
+}
+
+p{
+    color: #fff;
+    font-size: 20px;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 70px;
+    text-align: center;
+    color: #fff;
+}
+
+label {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: center;
+    color: #fff;
+}
+
+.botao {
+padding: 10px 20px;
+background: linear-gradient(to right, #56e370, #2d502c);
+color: #fff;
+border: none;
+border-radius: 5px;
+cursor: pointer;
+font-size: 16px;
+}
+
+.botao2 {
+    padding: 10px 20px;
+    background: linear-gradient(to right, #ea2424, rgb(98, 4, 4));
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    }
